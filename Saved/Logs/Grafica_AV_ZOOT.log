@@ -4463,3 +4463,1203 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.03-11.57.44:205][477]LogContentValidation: Display: Validating /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.BP_Sky_Sphere_C_UAID_D493900F152B393502_1426251501
 [2024.12.03-11.57.44:205][477]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B383502_2020998324
 [2024.12.03-11.57.44:218][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.12.03-11.59.26:876][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-11.59.27:035][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-11.59.29:977][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.29:977][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.29:977][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSky/BP_Sky_Sphere.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineSky/BP_Sky_Sphere.uasset' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/Blueprint/AIAsyncTaskBlueprintProxy.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/Blueprint/AIAsyncTaskBlueprintProxy.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/Tasks: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/Tasks' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/UnrealEd/Public: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/UnrealEd/Public' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/AnimGraph/Public/AnimGraphNode_SkeletalControlBase.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/AnimGraph/Public/AnimGraphNode_SkeletalControlBase.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Public/AssetExportTask.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Public/AssetExportTask.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/Blutility/Public/AsyncRegisterAndExecuteTask.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/Blutility/Public/AsyncRegisterAndExecuteTask.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/UMG/Public/Blueprint/AsyncTaskDownloadImage.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/UMG/Public/Blueprint/AsyncTaskDownloadImage.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Developer/FunctionalTesting/Public/AutomationBlueprintFunctionLibrary.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Developer/FunctionalTesting/Public/AutomationBlueprintFunctionLibrary.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BehaviorTreeEditor/Classes: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Editor/BehaviorTreeEditor/Classes' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Animation/AnimData/BoneMaskFilter.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Animation/AnimData/BoneMaskFilter.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Interfaces/Interface_BoneReferenceSkeletonProvider.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Interfaces/Interface_BoneReferenceSkeletonProvider.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.30:527][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/BehaviorTree/Tasks/BTTask_BlackboardBase.h: 'C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/AIModule/Classes/BehaviorTree/Tasks/BTTask_BlackboardBase.h' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-11.59.42:480][657]LogViewport: Scene viewport resized to 1015x725, mode Windowed.
+[2024.12.03-11.59.42:849][657]LogViewport: Scene viewport resized to 812x580, mode Windowed.
+[2024.12.03-11.59.45:106][730]LogViewport: Scene viewport resized to 1222x892, mode Windowed.
+[2024.12.03-11.59.57:587][403]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.12.03-12.10.40:644][ 84]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-12.10.40:652][ 84]LogContentBundle: [LagoHylia(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.03-12.10.40:653][ 84]LogWorldPartition: Display: GenerateStreaming for 'LagoHylia' started...
+[2024.12.03-12.10.40:816][ 84]LogWorldPartition: Display: GenerateStreaming for 'LagoHylia' took 164 ms (total: 614 ms)
+[2024.12.03-12.10.40:818][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-12.10.40:818][ 84]PIE: New page: PIE session: LagoHylia (3 dic. 2024 0:10:40)
+[2024.12.03-12.10.40:852][ 84]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LagoHylia
+[2024.12.03-12.10.40:865][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012665s)
+[2024.12.03-12.10.40:865][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LagoHylia.LagoHylia to /Game/Maps/UEDPIE_0_LagoHylia.LagoHylia (0.012732s)
+[2024.12.03-12.10.40:875][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.03-12.10.40:884][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-12.10.40:885][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-12.10.40:885][ 84]LogAIModule: Creating AISystem for world LagoHylia
+[2024.12.03-12.10.40:886][ 84]LogWorldPartition: ULevel::OnLevelLoaded(LagoHylia)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.03-12.10.40:886][ 84]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.03-12.10.40:886][ 84]LogWorldPartition: UWorldPartition::Initialize : World = LagoHylia, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.03-12.10.40:886][ 84]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.03-12.10.40:889][ 84]LogContentBundle: [LagoHylia(Standalone)] Creating new contrainer.
+[2024.12.03-12.10.40:890][ 84]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 910 ms)
+[2024.12.03-12.10.40:890][ 84]LogPlayLevel: PIE: World Init took: (0.005408s)
+[2024.12.03-12.10.40:890][ 84]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-12.10.40:890][ 84]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-12.10.40:890][ 84]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-12.10.40:891][ 84]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-12.10.40:891][ 84]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-12.10.40:891][ 84]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-12.10.40:893][ 84]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-12.10.40:912][ 84]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.12.03-12.10.40:914][ 84]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-12.10.40:914][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-12.10.40:914][ 84]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-12.10.40:915][ 84]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.12.03-12.10.40:915][ 84]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.12.03-12.10.40:917][ 84]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.12.03-12.10.40:917][ 84]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.12.03-12.10.40:917][ 84]LogInit: FAudioDevice initialized with ID 5.
+[2024.12.03-12.10.40:917][ 84]LogAudio: Display: Audio Device (ID: 5) registered with world 'LagoHylia'.
+[2024.12.03-12.10.40:917][ 84]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.03-12.10.40:924][ 84]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.03-12.10.40:925][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LagoHylia.LagoHylia up for play (max tick rate 60) at 2024.12.03-06.10.40
+[2024.12.03-12.10.40:925][ 84]LogWorld: Bringing up level for play took: 0.000881
+[2024.12.03-12.10.40:928][ 84]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.12.03-12.10.40:934][ 84]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(38), CellsToLoad(0), CellsToUnload(0)
+[2024.12.03-12.10.40:934][ 84]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-80.000 Y=12800.000 Z=1032.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.03-12.10.40:937][ 84]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/Z0/ODSAQ3T1DAJJNSSV0LN8TD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/3E/SOTWYNUJ365B8B1AQINJ38.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/0A/MVFSQXPDZ29XSF6MTBV5FM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/0A/MVFSQXPDZ29XSF6MTBV5FM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/U0/9DSXVFABFFM9QDPWFSNLFZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/EU/GYM5IBMUSOOJOI0Z05KZ6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/BY/SK6XIND3I3QEWDWG100YQ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/4U/WJED7F7E5P598LRBUKGAH0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/4U/WJED7F7E5P598LRBUKGAH0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/2V/6Y7YHU1TS5DYIXP5CS0JGX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/2V/6Y7YHU1TS5DYIXP5CS0JGX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/C/QM/0NKPZW9TMPXAP329DD07I3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/C/QM/0NKPZW9TMPXAP329DD07I3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/B/PB/API2RBU1LZAG4RHWH0EZFU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:185][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/B/NH/6T3T9RLP51WKOB0KYM7JK2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/YJ/J54UTYQ48AIB1I8QXM0CGF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/D8/DH4BH7QZY77ENZXU1ZYPBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/7N/NAQLJOI4J73JZUS71BWDHD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/1K/63YGBVX1OQUH80W8WQ3L5S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/0X/VE9LIRRMSVV02FCCSUMXQD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/ZJ/35RTV16GBZAEAX8CQBOZ2T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/A5/VLZ7TQPNE326ABGP6UK8B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/4C/U4F49GQU2EZE8Q9VY1EILQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/8/EQ/2UZVB66EKPN87BLBCHYZV0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/8/D3/JYW3Q9VX28HCEW0IQK0MN2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/YZ/20PG7Q7QIXNBECL27DVD6W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/WU/2EJG5YUD6SBURZTH2X2WQS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/99/0GL3WR8I7M9K98ECW031FK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/79/AQEAP5DH4P563MO03H696A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/6/BP/4OO8HKX4HD2HFHM43WHRIG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/K1/7UF1BHGOZ8TGZ28J4TZK7W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/K1/7UF1BHGOZ8TGZ28J4TZK7W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/JX/R2RGVPLEGNIH4K45F13O8O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/JX/R2RGVPLEGNIH4K45F13O8O.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/DJ/184P0YQX26KHOHTGF6B8V7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/DJ/184P0YQX26KHOHTGF6B8V7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/BV/0T5IMM9A06LGGGH40RE9P0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/5J/NAIT7ZL346AQV5J777P91X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/LD/M76WA21BVO3VW388O9UKGT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/J9/UKUTIXC6HBRJLK6D4HR90G.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/J9/UKUTIXC6HBRJLK6D4HR90G.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/ES/6GWVAP0IO71144M1SBTBO0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/9O/4QDO9VA5I1V6UXUPBI5QPL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/3/X9/9KF3H7UOXC10A9V02TCXMY.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/3/X9/9KF3H7UOXC10A9V02TCXMY.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/IG/RIAM87T20NTZFUUHM5PFCJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/HC/Z0S6S72W5KIW9M36RRLLYE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/GG/70ZFVCJJFIWP13RN53ALCQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/92/2SHT4XNBZ1CTG7FGPM075D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/92/2SHT4XNBZ1CTG7FGPM075D.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/8I/HSXJ5WY4JELXTHBBZEVQ4I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/8I/HSXJ5WY4JELXTHBBZEVQ4I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/WP/E5L6XPMHL3ENV9ILOBQSSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/M4/VSTP6N3EPCGYFOBP0QRB6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/LQ/PJH8WP3UEEEEIPHBCL2M2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/HN/N2DRCL7VUUO2Y2NZHZ38XQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/HN/N2DRCL7VUUO2Y2NZHZ38XQ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/DE/MBNMQ2I3ILZWL3U7S1X1S5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/0/CK/ARWEWZ83VXM3YV0XJUGQ3W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:186][ 84]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/0/AT/2KWO50NX60YAFKQWTZ7PI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.10.41:237][ 84]PIE: Server logged in
+[2024.12.03-12.10.41:238][ 84]PIE: Play in editor total start time 0,586 seconds.
+[2024.12.03-12.10.41:919][ 86]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.083871 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2024.12.03-12.10.41:922][ 86]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2024.12.03-12.10.41:922][ 86]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2024.12.03-12.10.41:923][ 86]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2024.12.03-12.10.41:923][ 86]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2024.12.03-12.10.41:923][ 86]SourceControl: Error: fatal: Invalid path '/Memory': No such file or directory
+[2024.12.03-12.10.55:683][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-12.10.55:683][723]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LagoHylia
+[2024.12.03-12.10.55:695][723]LogWorld: UWorld::CleanupWorld for LagoHylia, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.10.55:695][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.10.55:696][723]LogContentBundle: [LagoHylia(Standalone)] Deleting container.
+[2024.12.03-12.10.55:699][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-12.10.55:704][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.10.55:725][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.03-12.10.55:728][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.12.03-12.10.55:728][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.03-12.10.55:731][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.12.03-12.10.55:737][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-12.10.55:754][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.03-12.10.55:884][724]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.12.03-12.10.59:927][920]Cmd: DUPLICATE
+[2024.12.03-12.10.59:927][920]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.11.45:588][895]Cmd: DUPLICATE
+[2024.12.03-12.11.45:588][895]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.12.23:508][ 51]Cmd: DUPLICATE
+[2024.12.03-12.12.23:508][ 51]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.14.39:161][741]Cmd: DELETE
+[2024.12.03-12.14.39:161][741]Cmd: ACTOR DELETE
+[2024.12.03-12.14.39:166][741]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.39:184][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.12.03-12.14.39:193][741]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.12.03-12.14.41:841][893]Cmd: DELETE
+[2024.12.03-12.14.41:841][893]Cmd: ACTOR DELETE
+[2024.12.03-12.14.41:847][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.41:864][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.03-12.14.41:869][893]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.12.03-12.14.44:457][ 42]Cmd: DELETE
+[2024.12.03-12.14.44:457][ 42]Cmd: ACTOR DELETE
+[2024.12.03-12.14.44:460][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.44:482][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.03-12.14.44:485][ 42]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2024.12.03-12.14.47:497][217]Cmd: DELETE
+[2024.12.03-12.14.47:497][217]Cmd: ACTOR DELETE
+[2024.12.03-12.14.47:500][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.47:513][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.03-12.14.47:517][217]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.12.03-12.14.50:508][391]Cmd: DELETE
+[2024.12.03-12.14.50:508][391]Cmd: ACTOR DELETE
+[2024.12.03-12.14.50:512][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.50:525][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.03-12.14.50:529][391]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2024.12.03-12.14.55:125][651]Cmd: DELETE
+[2024.12.03-12.14.55:125][651]Cmd: ACTOR DELETE
+[2024.12.03-12.14.55:129][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.55:139][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.12.03-12.14.55:144][651]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.12.03-12.14.58:807][865]Cmd: DELETE
+[2024.12.03-12.14.58:807][865]Cmd: ACTOR DELETE
+[2024.12.03-12.14.58:810][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.14.58:821][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.12.03-12.14.58:825][865]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.12.03-12.15.06:515][297]Cmd: DUPLICATE
+[2024.12.03-12.15.06:515][297]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.15.39:051][ 76]Cmd: DUPLICATE
+[2024.12.03-12.15.39:051][ 76]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.15.39:568][100]Cmd: DUPLICATE
+[2024.12.03-12.15.39:568][100]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.16.56:413][306]Cmd: DELETE
+[2024.12.03-12.16.56:413][306]Cmd: ACTOR DELETE
+[2024.12.03-12.16.56:416][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.03-12.16.56:430][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.03-12.16.56:437][306]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.12.03-12.17.12:871][210]Cmd: DUPLICATE
+[2024.12.03-12.17.12:871][210]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.17.38:647][566]Cmd: DUPLICATE
+[2024.12.03-12.17.38:647][566]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.17.57:477][557]Cmd: DUPLICATE
+[2024.12.03-12.17.57:477][557]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.18.19:168][731]Cmd: DUPLICATE
+[2024.12.03-12.18.19:168][731]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.18.49:938][404]Cmd: DUPLICATE
+[2024.12.03-12.18.49:938][404]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.19.48:376][499]Cmd: DUPLICATE
+[2024.12.03-12.19.48:376][499]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.21.02:408][521]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.03-12.21.02:417][521]LogContentBundle: [LagoHylia(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.03-12.21.02:417][521]LogWorldPartition: Display: GenerateStreaming for 'LagoHylia' started...
+[2024.12.03-12.21.02:554][521]LogWorldPartition: Display: GenerateStreaming for 'LagoHylia' took 136 ms (total: 751 ms)
+[2024.12.03-12.21.02:555][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.03-12.21.02:556][521]PIE: New page: PIE session: LagoHylia (3 dic. 2024 0:21:02)
+[2024.12.03-12.21.02:596][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LagoHylia
+[2024.12.03-12.21.02:613][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017642s)
+[2024.12.03-12.21.02:613][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LagoHylia.LagoHylia to /Game/Maps/UEDPIE_0_LagoHylia.LagoHylia (0.017713s)
+[2024.12.03-12.21.02:627][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.03-12.21.02:633][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.03-12.21.02:635][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.03-12.21.02:635][521]LogAIModule: Creating AISystem for world LagoHylia
+[2024.12.03-12.21.02:636][521]LogWorldPartition: ULevel::OnLevelLoaded(LagoHylia)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.03-12.21.02:636][521]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.03-12.21.02:636][521]LogWorldPartition: UWorldPartition::Initialize : World = LagoHylia, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.03-12.21.02:636][521]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.03-12.21.02:640][521]LogContentBundle: [LagoHylia(Standalone)] Creating new contrainer.
+[2024.12.03-12.21.02:640][521]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 914 ms)
+[2024.12.03-12.21.02:640][521]LogPlayLevel: PIE: World Init took: (0.005572s)
+[2024.12.03-12.21.02:640][521]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.03-12.21.02:640][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.03-12.21.02:640][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.03-12.21.02:640][521]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.03-12.21.02:640][521]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.03-12.21.02:640][521]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.03-12.21.02:643][521]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.03-12.21.02:661][521]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- High Definition Audio Device)
+[2024.12.03-12.21.02:661][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.03-12.21.02:662][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.03-12.21.02:662][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.03-12.21.02:663][521]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.12.03-12.21.02:663][521]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.12.03-12.21.02:664][521]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.12.03-12.21.02:665][521]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.12.03-12.21.02:665][521]LogInit: FAudioDevice initialized with ID 6.
+[2024.12.03-12.21.02:665][521]LogAudio: Display: Audio Device (ID: 6) registered with world 'LagoHylia'.
+[2024.12.03-12.21.02:665][521]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.03-12.21.02:668][521]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.03-12.21.02:669][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LagoHylia.LagoHylia up for play (max tick rate 60) at 2024.12.03-06.21.02
+[2024.12.03-12.21.02:669][521]LogWorld: Bringing up level for play took: 0.000805
+[2024.12.03-12.21.02:672][521]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.12.03-12.21.02:676][521]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(38), CellsToLoad(0), CellsToUnload(0)
+[2024.12.03-12.21.02:676][521]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-80.000 Y=12800.000 Z=1032.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/Z0/ODSAQ3T1DAJJNSSV0LN8TD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/HJ/A17DV5OCA3D927HICU033M.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/3E/SOTWYNUJ365B8B1AQINJ38.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/0A/MVFSQXPDZ29XSF6MTBV5FM.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/E/0A/MVFSQXPDZ29XSF6MTBV5FM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/U0/9DSXVFABFFM9QDPWFSNLFZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/EU/GYM5IBMUSOOJOI0Z05KZ6G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/BY/SK6XIND3I3QEWDWG100YQ3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/4U/WJED7F7E5P598LRBUKGAH0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/4U/WJED7F7E5P598LRBUKGAH0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/2V/6Y7YHU1TS5DYIXP5CS0JGX.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/D/2V/6Y7YHU1TS5DYIXP5CS0JGX.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/C/QM/0NKPZW9TMPXAP329DD07I3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/C/QM/0NKPZW9TMPXAP329DD07I3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/B/PB/API2RBU1LZAG4RHWH0EZFU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/B/NH/6T3T9RLP51WKOB0KYM7JK2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/YJ/J54UTYQ48AIB1I8QXM0CGF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/D8/DH4BH7QZY77ENZXU1ZYPBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/7N/NAQLJOI4J73JZUS71BWDHD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/1K/63YGBVX1OQUH80W8WQ3L5S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/A/0X/VE9LIRRMSVV02FCCSUMXQD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/ZJ/35RTV16GBZAEAX8CQBOZ2T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/A5/VLZ7TQPNE326ABGP6UK8B3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/9/4C/U4F49GQU2EZE8Q9VY1EILQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/8/EQ/2UZVB66EKPN87BLBCHYZV0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/8/D3/JYW3Q9VX28HCEW0IQK0MN2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/YZ/20PG7Q7QIXNBECL27DVD6W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/WU/2EJG5YUD6SBURZTH2X2WQS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/99/0GL3WR8I7M9K98ECW031FK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/7/79/AQEAP5DH4P563MO03H696A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/6/BP/4OO8HKX4HD2HFHM43WHRIG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/K1/7UF1BHGOZ8TGZ28J4TZK7W.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/K1/7UF1BHGOZ8TGZ28J4TZK7W.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/JX/R2RGVPLEGNIH4K45F13O8O.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/JX/R2RGVPLEGNIH4K45F13O8O.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/DJ/184P0YQX26KHOHTGF6B8V7.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/DJ/184P0YQX26KHOHTGF6B8V7.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/BV/0T5IMM9A06LGGGH40RE9P0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/5/5J/NAIT7ZL346AQV5J777P91X.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/LD/M76WA21BVO3VW388O9UKGT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/J9/UKUTIXC6HBRJLK6D4HR90G.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/J9/UKUTIXC6HBRJLK6D4HR90G.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/ES/6GWVAP0IO71144M1SBTBO0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/4/9O/4QDO9VA5I1V6UXUPBI5QPL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/3/X9/9KF3H7UOXC10A9V02TCXMY.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/3/X9/9KF3H7UOXC10A9V02TCXMY.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/IG/RIAM87T20NTZFUUHM5PFCJ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:681][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/HC/Z0S6S72W5KIW9M36RRLLYE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/GG/70ZFVCJJFIWP13RN53ALCQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/92/2SHT4XNBZ1CTG7FGPM075D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/92/2SHT4XNBZ1CTG7FGPM075D.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/8I/HSXJ5WY4JELXTHBBZEVQ4I.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/2/8I/HSXJ5WY4JELXTHBBZEVQ4I.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/WP/E5L6XPMHL3ENV9ILOBQSSC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/M4/VSTP6N3EPCGYFOBP0QRB6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/LQ/PJH8WP3UEEEEIPHBCL2M2P.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/HN/N2DRCL7VUUO2Y2NZHZ38XQ.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/HN/N2DRCL7VUUO2Y2NZHZ38XQ.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/1/DE/MBNMQ2I3ILZWL3U7S1X1S5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/0/CK/ARWEWZ83VXM3YV0XJUGQ3W.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:682][521]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Maps/LagoHylia/0/AT/2KWO50NX60YAFKQWTZ7PI6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.12.03-12.21.02:690][521]LogStreaming: Display: FlushAsyncLoading(): 51 QueuedPackages, 0 AsyncPackages
+[2024.12.03-12.21.02:942][521]PIE: Server logged in
+[2024.12.03-12.21.02:943][521]PIE: Play in editor total start time 0,526 seconds.
+[2024.12.03-12.21.13:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-12.21.13:717][  0]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LagoHylia
+[2024.12.03-12.21.13:730][  0]LogWorld: UWorld::CleanupWorld for LagoHylia, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.21.13:730][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.21.13:731][  0]LogContentBundle: [LagoHylia(Standalone)] Deleting container.
+[2024.12.03-12.21.13:735][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.03-12.21.13:740][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.21.13:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.03-12.21.13:762][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.12.03-12.21.13:762][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.03-12.21.13:766][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.12.03-12.21.13:793][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.03-12.21.13:874][  1]Cmd: SELECT NONE
+[2024.12.03-12.21.13:881][  1]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.12.03-12.21.14:123][  2]Cmd: SELECT NONE
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 0 (Found bundle for host: 0x8cf3d960810 [serially])
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 7 (Closing connection)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.12.03-12.21.55:235][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.12.03-12.21.55:236][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.12.03-12.21.55:236][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.12.03-12.21.55:236][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.21.55:236][ 17]LogHttp: Warning: 000008CFF5455000: libcurl info message cache 13 (Closing connection)
+[2024.12.03-12.21.55:236][ 17]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.22.03:471][478]LogHttp: Warning: 000008CF7D596900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.22.03:471][478]LogHttp: Warning: 000008CF7D596900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.22.03:471][478]LogHttp: Warning: 000008CF7D596900: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.22.03:471][478]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.22.22:329][540]LogViewport: Scene viewport resized to 936x892, mode Windowed.
+[2024.12.03-12.22.31:573][ 60]LogEditorViewport: Clicking Background
+[2024.12.03-12.22.32:025][ 84]LogEditorViewport: Clicking Background
+[2024.12.03-12.22.41:355][597]LogEditorViewport: Clicking Background
+[2024.12.03-12.22.44:516][765]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.44:516][765]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.44:527][765]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.44:528][765]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.45:054][765]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.45:055][765]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.45:057][765]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.45:533][765]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.45:533][765]LogEditorTransaction: Undo Clicking Background
+[2024.12.03-12.22.46:605][767]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.46:605][767]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.46:609][767]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.47:144][768]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.47:144][768]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.22.48:240][770]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.48:240][770]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.48:243][770]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.48:772][771]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.48:772][771]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.48:774][771]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.49:580][777]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.22.49:960][797]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.49:960][797]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.49:969][797]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.51:174][835]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.51:174][835]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.51:179][835]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.51:703][836]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.22.52:259][864]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.52:259][864]LogEditorTransaction: Undo Clicking Background
+[2024.12.03-12.22.53:668][902]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.53:669][902]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.53:688][902]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.54:197][903]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.22.54:673][927]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.54:673][927]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.54:675][927]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.55:777][951]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.55:777][951]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.55:789][951]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.56:348][952]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.22.57:716][ 28]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.57:716][ 28]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.57:719][ 28]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.22.58:428][ 30]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.22.59:412][ 83]Cmd: TRANSACTION UNDO
+[2024.12.03-12.22.59:412][ 83]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.22.59:431][ 83]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.23.00:440][108]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.23.00:555][114]Cmd: TRANSACTION UNDO
+[2024.12.03-12.23.00:555][114]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.23.02:458][168]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.23.14:567][879]LogHttp: Warning: 000008CFF3AF4600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.23.14:567][879]LogHttp: Warning: 000008CFF3AF4600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.23.14:567][879]LogHttp: Warning: 000008CFF3AF4600: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.23.14:567][879]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.23.26:955][589]Cmd: TRANSACTION UNDO
+[2024.12.03-12.23.26:955][589]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.23.27:789][595]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.23.28:027][609]Cmd: TRANSACTION UNDO
+[2024.12.03-12.23.28:027][609]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.23.28:031][609]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.23.28:032][609]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.23.29:144][635]Cmd: TRANSACTION UNDO
+[2024.12.03-12.23.29:144][635]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.23.29:799][638]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.23.31:842][752]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.23.42:001][350]LogEditorViewport: Clicking Background
+[2024.12.03-12.24.03:466][582]LogHttp: Warning: 000008CFA6945000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.24.03:466][582]LogHttp: Warning: 000008CFA6945000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.24.03:466][582]LogHttp: Warning: 000008CFA6945000: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.24.03:466][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.24.05:123][681]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.05:123][681]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.05:127][681]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.05:128][681]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.05:129][681]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.05:129][681]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.05:981][687]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.12:300][ 25]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.12:300][ 25]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.13:134][ 31]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.13:485][ 52]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.13:485][ 52]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.13:495][ 52]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.13:496][ 52]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.13:496][ 52]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.13:496][ 52]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.14:775][ 91]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.14:775][ 91]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.14:788][ 91]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.14:794][ 91]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.15:298][ 92]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.17:301][204]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.27:043][763]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.27:043][763]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.27:047][763]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.27:048][763]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.27:048][763]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.27:865][769]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.28:098][783]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.28:098][783]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.24.28:110][783]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.28:110][783]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.29:879][853]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.37:204][275]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.37:204][275]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.37:211][275]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.38:001][281]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.38:499][310]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.38:499][310]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.38:501][310]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.39:484][336]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.39:484][336]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.39:501][336]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.39:502][336]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.24.40:011][337]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.40:556][357]Cmd: TRANSACTION UNDO
+[2024.12.03-12.24.40:556][357]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.24.42:034][409]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.24.55:851][218]LogEditorViewport: Clicking Background
+[2024.12.03-12.24.58:690][383]LogEditorViewport: Clicking Background
+[2024.12.03-12.25.14:588][278]LogHttp: Warning: 000008D0038F9100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.25.14:589][278]LogHttp: Warning: 000008D0038F9100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.25.14:589][278]LogHttp: Warning: 000008D0038F9100: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.25.14:589][278]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.25.21:225][663]LogEditorViewport: Clicking Background
+[2024.12.03-12.25.23:975][827]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.23:975][827]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.23:980][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.24:435][827]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.24:435][827]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.24:438][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.24:878][827]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.24:878][827]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.24:881][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.25:381][827]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.25:381][827]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.25:386][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.25:387][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.25:387][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.25:388][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.26:024][827]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.26:024][827]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.26:028][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.26:029][827]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.27:547][833]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.30:128][962]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.30:128][962]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.30:885][968]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.31:186][986]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.31:186][986]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.25.32:886][ 47]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.34:087][111]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.34:087][111]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.34:091][111]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.34:896][124]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.35:047][133]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.35:047][133]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.35:052][133]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.36:041][155]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.36:042][155]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.36:044][155]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.36:899][162]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.37:178][177]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.37:178][177]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.37:194][177]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.38:167][200]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.38:167][200]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.38:176][200]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.38:176][200]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.38:177][200]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.38:913][208]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.39:646][252]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.39:646][252]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.39:650][252]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.40:926][293]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.42:928][412]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.42:928][412]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.42:931][412]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.43:721][418]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.44:222][448]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.44:222][448]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.44:226][448]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.44:227][448]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0.Heightmap_7 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.45:230][473]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.45:230][473]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.45:235][473]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.45:776][474]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.46:344][503]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.46:344][503]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.46:347][503]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.46:349][503]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.47:318][526]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.47:318][526]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.25.47:329][526]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.47:911][527]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.49:916][638]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.55:072][938]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.55:072][938]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.55:078][938]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.55:861][944]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.25.56:144][961]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.56:145][961]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.56:146][961]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.25.57:171][989]Cmd: TRANSACTION UNDO
+[2024.12.03-12.25.57:171][989]LogEditorTransaction: Undo Landscape Editing: Erase
+[2024.12.03-12.25.57:871][997]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.14:531][952]LogHttp: Warning: 000008D002D80500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.26.14:531][952]LogHttp: Warning: 000008D002D80500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.26.14:531][952]LogHttp: Warning: 000008D002D80500: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.26.14:531][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.26.15:888][ 32]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.15:888][ 32]LogEditorTransaction: Undo Landscape Editing: Noise
+[2024.12.03-12.26.15:893][ 32]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.26.16:697][ 38]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.16:964][ 54]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.16:964][ 54]LogEditorTransaction: Undo Landscape Editing: Noise
+[2024.12.03-12.26.18:002][ 77]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.18:002][ 77]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.26.18:043][ 77]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.26.18:044][ 77]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.26.18:710][ 81]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.19:116][104]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.19:116][104]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.26.20:185][132]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.20:185][132]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.26.20:190][132]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_5 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.26.20:190][132]LogTexture: Display: Building textures: /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0.Heightmap_4 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2024.12.03-12.26.20:710][133]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.21:236][158]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.21:236][158]LogEditorTransaction: Undo Clicking Background
+[2024.12.03-12.26.22:461][189]Cmd: TRANSACTION UNDO
+[2024.12.03-12.26.22:462][189]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.12.03-12.26.22:989][190]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.25:011][304]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.26.54:476][977]LogViewport: Scene viewport resized to 1222x892, mode Windowed.
+[2024.12.03-12.27.03:450][456]LogHttp: Warning: 000008D0080EF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.27.03:450][456]LogHttp: Warning: 000008D0080EF000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.27.03:450][456]LogHttp: Warning: 000008D0080EF000: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.27.03:450][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.27.19:677][266]Cmd: DUPLICATE
+[2024.12.03-12.27.19:677][266]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.27.51:267][890]Cmd: DUPLICATE
+[2024.12.03-12.27.51:267][890]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.28.14:556][ 93]LogHttp: Warning: 000008CFF02C3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.28.14:557][ 93]LogHttp: Warning: 000008CFF02C3200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.28.14:557][ 93]LogHttp: Warning: 000008CFF02C3200: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.28.14:557][ 93]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.28.23:766][597]Cmd: DUPLICATE
+[2024.12.03-12.28.23:766][597]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.29.03:458][690]LogHttp: Warning: 000008CFCA773C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.29.03:458][690]LogHttp: Warning: 000008CFCA773C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.29.03:458][690]LogHttp: Warning: 000008CFCA773C00: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.29.03:458][690]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.29.28:637][ 42]Cmd: DUPLICATE
+[2024.12.03-12.29.28:638][ 42]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.29.37:861][543]Cmd: DUPLICATE
+[2024.12.03-12.29.37:862][543]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.30.03:474][929]LogHttp: Warning: 000008D0038FA000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.30.03:474][929]LogHttp: Warning: 000008D0038FA000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.30.03:474][929]LogHttp: Warning: 000008D0038FA000: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.30.03:474][929]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.31.03:453][ 94]LogHttp: Warning: 000008CFD1CDAF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.31.03:454][ 94]LogHttp: Warning: 000008CFD1CDAF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.31.03:454][ 94]LogHttp: Warning: 000008CFD1CDAF00: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.31.03:454][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.32.03:479][230]LogHttp: Warning: 000008D006E09100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.32.03:479][230]LogHttp: Warning: 000008D006E09100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.32.03:479][230]LogHttp: Warning: 000008D006E09100: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.32.03:479][230]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.33.03:491][465]LogHttp: Warning: 000008D0129BE100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.33.03:491][465]LogHttp: Warning: 000008D0129BE100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.33.03:491][465]LogHttp: Warning: 000008D0129BE100: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.33.03:491][465]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.33.32:757][973]EditorErrors: New page: Actor attachment
+[2024.12.03-12.33.52:268][ 31]Cmd: DUPLICATE
+[2024.12.03-12.33.52:268][ 31]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.34.03:466][609]LogHttp: Warning: 000008CFC5016900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.34.03:467][609]LogHttp: Warning: 000008CFC5016900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.34.03:467][609]LogHttp: Warning: 000008CFC5016900: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.34.03:467][609]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.34.29:300][964]Cmd: TRANSACTION UNDO
+[2024.12.03-12.34.29:300][964]LogEditorTransaction: Undo Move Elements
+[2024.12.03-12.34.30:073][970]Cmd: TRANSACTION UNDO
+[2024.12.03-12.34.30:073][970]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.34.30:557][970]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.34.32:089][ 48]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.35.14:554][266]LogHttp: Warning: 000008D012E05000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.35.14:554][266]LogHttp: Warning: 000008D012E05000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.35.14:554][266]LogHttp: Warning: 000008D012E05000: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.35.14:554][266]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.35.32:433][198]Cmd: TRANSACTION UNDO
+[2024.12.03-12.35.32:433][198]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.35.33:067][199]Cmd: TRANSACTION UNDO
+[2024.12.03-12.35.33:067][199]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.35.33:517][199]Cmd: TRANSACTION UNDO
+[2024.12.03-12.35.33:517][199]LogEditorTransaction: Undo Move Elements
+[2024.12.03-12.35.33:953][199]Cmd: TRANSACTION UNDO
+[2024.12.03-12.35.33:953][199]LogEditorTransaction: Undo Move Elements
+[2024.12.03-12.35.34:777][205]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.36.03:475][714]LogHttp: Warning: 000008CFD4710A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.12.03-12.36.03:475][714]LogHttp: Warning: 000008CFD4710A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.12.03-12.36.03:475][714]LogHttp: Warning: 000008CFD4710A00: libcurl info message cache 1 (Closing connection)
+[2024.12.03-12.36.03:475][714]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B742AC339-40E9-7935-1AC6-78AFD102D794%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=c34e04ce4ff795f0bcc216a4b707ab1a%7C4dcc3bcd54014ce0b3b8952a54930e10%7C491f2c3e-1577-47f7-b2dc-5b2619c29fda&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.12.03-12.36.36:410][491]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.36:410][491]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.36.37:225][497]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.36.37:973][538]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.37:973][538]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.36.39:131][569]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.39:131][569]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.03-12.36.39:699][570]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.36.40:218][597]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.40:218][597]LogEditorTransaction: Undo Clicking on Actors
+[2024.12.03-12.36.41:705][649]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.41:706][649]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.36.42:221][649]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.36.42:843][673]Cmd: TRANSACTION UNDO
+[2024.12.03-12.36.42:843][673]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.36.43:712][685]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.39.27:092][296]Cmd: DUPLICATE
+[2024.12.03-12.39.27:092][296]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.40.34:858][778]Cmd: TRANSACTION UNDO
+[2024.12.03-12.40.34:858][778]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.40.35:692][784]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.40.35:726][786]Cmd: TRANSACTION UNDO
+[2024.12.03-12.40.35:726][786]LogEditorTransaction: Undo Clicking on Elements
+[2024.12.03-12.40.37:704][857]54946_luciernagas_MessageLog: System successfully compiled.
+[2024.12.03-12.41.27:855][521]Cmd: DUPLICATE
+[2024.12.03-12.41.27:855][521]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.43.30:101][905]LogDerivedDataCache: C:/Users/Abraham/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:37.537 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 19692 files in 21641 folders with total size 1555 MiB.
+[2024.12.03-12.44.07:134][895]Cmd: DUPLICATE
+[2024.12.03-12.44.07:134][895]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.46.54:219][468]Cmd: DUPLICATE
+[2024.12.03-12.46.54:219][468]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.46.54:281][468]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.12:298][426]Cmd: DUPLICATE
+[2024.12.03-12.47.12:299][426]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.47.12:337][426]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.31:643][465]Cmd: DUPLICATE
+[2024.12.03-12.47.31:643][465]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.47.31:678][465]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.31:687][465]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B3D3502_1190367278" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.38:518][830]Cmd: DUPLICATE
+[2024.12.03-12.47.38:518][830]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.47.38:557][830]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.38:566][830]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B3D3502_1190367278" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.47.38:573][830]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B3D3502_1209711279" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.48.11:138][563]Cmd: DUPLICATE
+[2024.12.03-12.48.11:138][563]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.48.11:175][563]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.48.43:018][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.12.03-12.48.43:018][168]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2024.12.03-12.48.43:021][168]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3D3502_1281085282
+[2024.12.03-12.48.43:022][168]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3D3502_1281085282
+[2024.12.03-12.49.15:797][875]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMeshes' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-12.49.15:797][875]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Plane.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Plane.uasset' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-12.49.15:797][875]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-12.49.15:797][875]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/planes.uasset: 'C:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/planes.uasset' is outside repository at 'C:/Users/Abraham/Documents/Grafica-AV-ZOOT'
+[2024.12.03-12.51.00:776][276]Cmd: DUPLICATE
+[2024.12.03-12.51.00:776][276]Cmd: ACTOR DUPLICATE
+[2024.12.03-12.51.00:818][276]LogClass: Warning: Short type name "NiagaraActor_UAID_D493900F152B383502_2020998324" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.12.03-12.51.37:368][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_1_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/3/OS/MB5JAAM8LN18WZHHJUO670.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_3_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/4/U6/U17V88R6BAG2ZCIRFNVZV9.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_2_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/C/ZB/ZLLUCONAR0UQOHQ46XSMXY.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_1_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/9/SY/Z9H2B2MEGYX8MUQY6BLIGI.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_0_3_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/2/FB/MIW1V8QKL0DDD6THIAGRQ6.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_3_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/B/A9/HM022Q4819TNW0TPGP66AX.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_2_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/5/15/SCY0EKVR71MWWYANDBN7F8.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_1_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/E/HA/BW9J6I65WQFQSPCBUPW4JD.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_0_2_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/D/E6/XKQ0RJMGF18ECMKILUAW4K.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_3_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/1/CG/MBSUBHVVT42UWDJ07ZU78P.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_2_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/5/XA/VDB4TZO73DVWN2XR1HCIFL.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_0_1_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/D/BQ/MC2R3GZJC6KP3X7O0WNIF5.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_3_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/F/1B/124PV6R7WIKSE94090SVBL.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_2_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/6/M5/VQDUW2VSRT3XIU5I44DDFV.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_1_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/3/SQ/I8V45LGNEYH85G9DFXSZHD.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_4WF6Y60W2X65E227LIJ79T6UO_126_0_0_0 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/D/16/FAEPFVB6Q1YL6UI32S094S.PackageMetaData in its package
+[2024.12.03-12.51.37:755][398]LogWorldPartition: Actor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B363502_1255915971 is unreachable without properly detaching object /Game/__ExternalActors__/Maps/LagoHylia/B/AQ/H73HA9MUOUZSHRRSAO5EKI.PackageMetaData in its package
+[2024.12.03-12.51.37:937][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.03-12.51.37:962][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.03-12.51.37:973][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.12.03-12.51.38:834][398]SourceControl: Error: Updated 0 paths from the index
+[2024.12.03-12.51.39:204][398]SourceControl: rm 'Content/__ExternalActors__/Maps/LagoHylia/0/FR/LI0E3UWVIEHDKR59A5V65L.uasset'
+[2024.12.03-12.51.39:204][398]SourceControl: rm 'Content/__ExternalActors__/Maps/LagoHylia/3/J1/59QWHMP8M0GEVZ6SXOAMZ3.uasset'
+[2024.12.03-12.51.39:204][398]SourceControl: rm 'Content/__ExternalActors__/Maps/LagoHylia/5/S5/81ADY0MZRLJYOM2ODRY9HA.uasset'
+[2024.12.03-12.51.39:204][398]SourceControl: rm 'Content/__ExternalActors__/Maps/LagoHylia/6/OR/EFH22WP0NN47AUWL7JYD88.uasset'
+[2024.12.03-12.51.39:220][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/WE/HM766263JZW4GID57T8URY
+[2024.12.03-12.51.39:221][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/HM766263JZW4GID57T8URY213FF40E4E5CBA771E9249BE4139C75A.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/WE/HM766263JZW4GID57T8URY.uasset'
+[2024.12.03-12.51.39:237][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/7/4A/4KKT4O7QKHAUS87IOR36EH
+[2024.12.03-12.51.39:239][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/4KKT4O7QKHAUS87IOR36EH84F127A44BBFF8FFDEF2F7A5D3475BF9.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/7/4A/4KKT4O7QKHAUS87IOR36EH.uasset'
+[2024.12.03-12.51.39:242][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/E/N2/ZDLZ8DUT1MDBA7KW79FOUO
+[2024.12.03-12.51.39:243][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/ZDLZ8DUT1MDBA7KW79FOUOB5645AA24B40E47CC80CA2B5D45A330E.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/E/N2/ZDLZ8DUT1MDBA7KW79FOUO.uasset'
+[2024.12.03-12.51.39:267][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/7/G5/F9MV7DDOV752FG1SR4XY7N
+[2024.12.03-12.51.39:267][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/F9MV7DDOV752FG1SR4XY7N01FDED5447139223049D879FB6306A90.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/7/G5/F9MV7DDOV752FG1SR4XY7N.uasset'
+[2024.12.03-12.51.39:292][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/R7/YMDJ87N64XQ4YM02JP29MN
+[2024.12.03-12.51.39:293][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/YMDJ87N64XQ4YM02JP29MN34C75A5E4CA792C959E64BA311E2CB1F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/R7/YMDJ87N64XQ4YM02JP29MN.uasset'
+[2024.12.03-12.51.39:296][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/0E/ZT97FXX9P290UK4EGP6LXX
+[2024.12.03-12.51.39:296][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/ZT97FXX9P290UK4EGP6LXX7454C2A1409BEFCC71BAA592F0AB3F88.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/0E/ZT97FXX9P290UK4EGP6LXX.uasset'
+[2024.12.03-12.51.39:299][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/1/R7/P6YFQ2SC2ED8Z664EL2PJ5
+[2024.12.03-12.51.39:299][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/P6YFQ2SC2ED8Z664EL2PJ5EB408ADD4A387A4AC38464A975497B31.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/1/R7/P6YFQ2SC2ED8Z664EL2PJ5.uasset'
+[2024.12.03-12.51.39:301][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/E/TK/Q38PILCYINDZC8J92O8CTZ
+[2024.12.03-12.51.39:301][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/Q38PILCYINDZC8J92O8CTZ5CADBC304C1220088E3439B89A7B907E.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/E/TK/Q38PILCYINDZC8J92O8CTZ.uasset'
+[2024.12.03-12.51.39:304][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/QP/5A5NROVPFP6SXGZQP3I069
+[2024.12.03-12.51.39:304][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/5A5NROVPFP6SXGZQP3I069B012E16245956EA53A3463BA188B11E7.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/QP/5A5NROVPFP6SXGZQP3I069.uasset'
+[2024.12.03-12.51.39:307][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/7/7Z/21Z1KMXR4EJCIMWEHUNHNB
+[2024.12.03-12.51.39:307][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/21Z1KMXR4EJCIMWEHUNHNBC0E585DC499D61B9A03037BFBDD78DD3.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/7/7Z/21Z1KMXR4EJCIMWEHUNHNB.uasset'
+[2024.12.03-12.51.39:312][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/1/BY/YJ0LTS8LIVMSS0T8D8IOCD
+[2024.12.03-12.51.39:312][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/YJ0LTS8LIVMSS0T8D8IOCD0EE5D3614F2F26695C3CDDA7B08673BC.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/1/BY/YJ0LTS8LIVMSS0T8D8IOCD.uasset'
+[2024.12.03-12.51.39:316][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/0/5B/V4B6ZSE562J5MVIRIZVFWX
+[2024.12.03-12.51.39:316][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/V4B6ZSE562J5MVIRIZVFWXE046D4814C1EEC5D2BDE3E9197C54D35.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/0/5B/V4B6ZSE562J5MVIRIZVFWX.uasset'
+[2024.12.03-12.51.39:319][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/E/GN/WCZ1NEIANJ7HZMLUJG7G45
+[2024.12.03-12.51.39:320][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/WCZ1NEIANJ7HZMLUJG7G45E076AE9C41C585DA1C459BAFDC206641.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/E/GN/WCZ1NEIANJ7HZMLUJG7G45.uasset'
+[2024.12.03-12.51.39:323][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/B/SC/Z2SXYU29WCT4UOH47XRM96
+[2024.12.03-12.51.39:323][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/Z2SXYU29WCT4UOH47XRM96D2F84DA549B4F1BE4A96CBA14A8D337F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/B/SC/Z2SXYU29WCT4UOH47XRM96.uasset'
+[2024.12.03-12.51.39:327][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/I8/GGD6347PXHM6V1PIDPNHSU
+[2024.12.03-12.51.39:327][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/GGD6347PXHM6V1PIDPNHSUA649FE164157CA4B3911378F16F0A00A.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/I8/GGD6347PXHM6V1PIDPNHSU.uasset'
+[2024.12.03-12.51.39:330][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/3/H7/DRPDBMKMGBXSZMSKY0HFRY
+[2024.12.03-12.51.39:331][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/DRPDBMKMGBXSZMSKY0HFRYC9F4ACAC4C0332EE581C24BC57D9ECC7.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/3/H7/DRPDBMKMGBXSZMSKY0HFRY.uasset'
+[2024.12.03-12.51.39:334][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/68/JXCOEJE0WYUMQXF6T0UKL5
+[2024.12.03-12.51.39:334][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/JXCOEJE0WYUMQXF6T0UKL5152EFF51454E89B80FC06ABC0FE8AB25.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/68/JXCOEJE0WYUMQXF6T0UKL5.uasset'
+[2024.12.03-12.51.39:339][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/3/2J/XPBPAWA4NFQJM7PNSOC2ZO
+[2024.12.03-12.51.39:339][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/XPBPAWA4NFQJM7PNSOC2ZOCD5B0BBF49C3E87B85F7DBB71A2EEB8D.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/3/2J/XPBPAWA4NFQJM7PNSOC2ZO.uasset'
+[2024.12.03-12.51.39:342][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/C/2P/3PHVOQZC7TYA0V6SWJ2L6E
+[2024.12.03-12.51.39:342][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/3PHVOQZC7TYA0V6SWJ2L6E729AE86C4A3A51FA6D9204923C1B1A1B.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/C/2P/3PHVOQZC7TYA0V6SWJ2L6E.uasset'
+[2024.12.03-12.51.39:345][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/0K/NEOQI85RTU8ARCIJQ66NGP
+[2024.12.03-12.51.39:345][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/NEOQI85RTU8ARCIJQ66NGP9F1472F247D805EB557CADA85CBF2AC5.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/0K/NEOQI85RTU8ARCIJQ66NGP.uasset'
+[2024.12.03-12.51.39:348][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/FB/P20ZJ7DQYPB5IJY6PG8TSY
+[2024.12.03-12.51.39:348][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/P20ZJ7DQYPB5IJY6PG8TSY9D94690E4CB33AFB3AE4D597752D7237.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/FB/P20ZJ7DQYPB5IJY6PG8TSY.uasset'
+[2024.12.03-12.51.39:350][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/8/OF/SXLBDLKBAKH515XFATMCTL
+[2024.12.03-12.51.39:351][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/SXLBDLKBAKH515XFATMCTLFA8B64EB4905164959D396B509E1D33F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/8/OF/SXLBDLKBAKH515XFATMCTL.uasset'
+[2024.12.03-12.51.39:354][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/B/WO/8SWUZXDIKLSC5TMDMNSCXN
+[2024.12.03-12.51.39:354][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/8SWUZXDIKLSC5TMDMNSCXN4434766C474A58D65C3458AE51F652D9.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/B/WO/8SWUZXDIKLSC5TMDMNSCXN.uasset'
+[2024.12.03-12.51.39:357][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/B/TD/IEIX5WPYBMOVCFDA19K9LF
+[2024.12.03-12.51.39:357][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/IEIX5WPYBMOVCFDA19K9LF715E3A47444BD13A6A7E69B97BC2FCC1.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/B/TD/IEIX5WPYBMOVCFDA19K9LF.uasset'
+[2024.12.03-12.51.39:361][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/7/AQ/6OVUXJ7I85G7ES4E97HEAA
+[2024.12.03-12.51.39:361][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/6OVUXJ7I85G7ES4E97HEAAF11A769545E21F78B30821B96EB0FDBB.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/7/AQ/6OVUXJ7I85G7ES4E97HEAA.uasset'
+[2024.12.03-12.51.39:364][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/03/W9O97T63TRT8WQGEXDLOUN
+[2024.12.03-12.51.39:364][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/W9O97T63TRT8WQGEXDLOUNFABB1FBE43CA485A27C7D4952572EEA1.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/03/W9O97T63TRT8WQGEXDLOUN.uasset'
+[2024.12.03-12.51.39:367][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/2/5G/EYVXTWX8QUUBV1CB7XGMDD
+[2024.12.03-12.51.39:367][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/EYVXTWX8QUUBV1CB7XGMDD7938E4304E7E95C9DB435D98BAC03250.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/2/5G/EYVXTWX8QUUBV1CB7XGMDD.uasset'
+[2024.12.03-12.51.39:371][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/A/GV/6S5P2MY31ZRG6IKP51U1SF
+[2024.12.03-12.51.39:371][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/6S5P2MY31ZRG6IKP51U1SFF7BFD9ED4EBA3314FB2A33AC5A3D2F31.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/A/GV/6S5P2MY31ZRG6IKP51U1SF.uasset'
+[2024.12.03-12.51.39:375][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/0/FC/ACOO38Y534QI0AX1BS55AT
+[2024.12.03-12.51.39:375][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/ACOO38Y534QI0AX1BS55AT299885E34FE0B09F42453AB926841A0F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/0/FC/ACOO38Y534QI0AX1BS55AT.uasset'
+[2024.12.03-12.51.39:378][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/4J/P1WCW9926ZPAI060O14W3M
+[2024.12.03-12.51.39:378][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/P1WCW9926ZPAI060O14W3M59A023A144A1085FCED0F39FD2656705.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/4J/P1WCW9926ZPAI060O14W3M.uasset'
+[2024.12.03-12.51.39:382][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/9R/97YDBZQ0L6Q4SIJR14RQUE
+[2024.12.03-12.51.39:382][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/97YDBZQ0L6Q4SIJR14RQUE3DF93CF14CAC05E5945813B18EA2291A.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/9R/97YDBZQ0L6Q4SIJR14RQUE.uasset'
+[2024.12.03-12.51.39:385][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/29/6CJM0I5XRJNCZV24G4V8BM
+[2024.12.03-12.51.39:385][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/6CJM0I5XRJNCZV24G4V8BMF1C349DE4441508425D425AE896D4C1B.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/29/6CJM0I5XRJNCZV24G4V8BM.uasset'
+[2024.12.03-12.51.39:389][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/A/RJ/BRXEY3X9AGTJU1K60RHBJ2
+[2024.12.03-12.51.39:389][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/BRXEY3X9AGTJU1K60RHBJ228B116EA4FC3B86F6EFD728BDF620C30.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/A/RJ/BRXEY3X9AGTJU1K60RHBJ2.uasset'
+[2024.12.03-12.51.39:392][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/CK/L03ZWF3JPYYLYPVM9I9F94
+[2024.12.03-12.51.39:392][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/L03ZWF3JPYYLYPVM9I9F942FE468D54FC250ECF3724D9ACCCE7986.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/CK/L03ZWF3JPYYLYPVM9I9F94.uasset'
+[2024.12.03-12.51.39:395][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/0/AN/F1P1Z0OXVXQV40KDNEEC81
+[2024.12.03-12.51.39:395][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/F1P1Z0OXVXQV40KDNEEC81CE127F524624CA14D79846AB036739EA.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/0/AN/F1P1Z0OXVXQV40KDNEEC81.uasset'
+[2024.12.03-12.51.39:399][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/PN/9SMCI54HOLZ5ER6OJK2I18
+[2024.12.03-12.51.39:399][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/9SMCI54HOLZ5ER6OJK2I18C880D0364D0EA341BBA3A39916D27D42.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/PN/9SMCI54HOLZ5ER6OJK2I18.uasset'
+[2024.12.03-12.51.39:401][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/QW/7K00TIKX3LU5O9E7Q7LYMX
+[2024.12.03-12.51.39:401][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/7K00TIKX3LU5O9E7Q7LYMX65DD238E4AABB4C860FFFEAB7748E36B.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/QW/7K00TIKX3LU5O9E7Q7LYMX.uasset'
+[2024.12.03-12.51.39:404][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/A/S4/M5UTWPB0KO1KRQ7UTWB7NP
+[2024.12.03-12.51.39:405][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/M5UTWPB0KO1KRQ7UTWB7NPF2FBA12F48E9E2553CA9AF882403DD84.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/A/S4/M5UTWPB0KO1KRQ7UTWB7NP.uasset'
+[2024.12.03-12.51.39:408][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/A/H4/ACXYAEATSFKJQ1UCBLDFP8
+[2024.12.03-12.51.39:408][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/ACXYAEATSFKJQ1UCBLDFP88040692A45320FF63713CB8D830FE7CA.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/A/H4/ACXYAEATSFKJQ1UCBLDFP8.uasset'
+[2024.12.03-12.51.39:412][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/T7/XQN34K4CBKBP790YSXRW3J
+[2024.12.03-12.51.39:412][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/XQN34K4CBKBP790YSXRW3J2691690947227F0321B2C8AB510FD5A6.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/T7/XQN34K4CBKBP790YSXRW3J.uasset'
+[2024.12.03-12.51.39:415][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/S3/FB0PDBCUKVK895QS1A3BPZ
+[2024.12.03-12.51.39:415][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/FB0PDBCUKVK895QS1A3BPZF0356C344AD8E33069275DB1CF2E050F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/S3/FB0PDBCUKVK895QS1A3BPZ.uasset'
+[2024.12.03-12.51.39:421][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/KP/2802HVWFRYAWKTDYNW6U14
+[2024.12.03-12.51.39:421][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/2802HVWFRYAWKTDYNW6U14F348B7BE406F8DFD267B058A893D8826.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/KP/2802HVWFRYAWKTDYNW6U14.uasset'
+[2024.12.03-12.51.39:425][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/1K/WWUC60APY41QYQEB26V024
+[2024.12.03-12.51.39:425][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/WWUC60APY41QYQEB26V024B71CAAD24F2644F586C5FE98220EAA86.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/1K/WWUC60APY41QYQEB26V024.uasset'
+[2024.12.03-12.51.39:430][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/B/5U/NSF01PCGB219AKTEBX89JJ
+[2024.12.03-12.51.39:430][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/NSF01PCGB219AKTEBX89JJA7F0EDF74C1E9184BA82EAB13AB7C737.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/B/5U/NSF01PCGB219AKTEBX89JJ.uasset'
+[2024.12.03-12.51.39:434][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/7C/M3Y2WTKZP0BG1RVROQ8VY0
+[2024.12.03-12.51.39:434][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/M3Y2WTKZP0BG1RVROQ8VY0F6E3FCBD4F5704312EEB71B228F03A4F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/7C/M3Y2WTKZP0BG1RVROQ8VY0.uasset'
+[2024.12.03-12.51.39:437][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/B/9J/0GUDN5LK9J4YMVRS2WYR4P
+[2024.12.03-12.51.39:437][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/0GUDN5LK9J4YMVRS2WYR4PB946128E4DDB3D2D20A8A79F5997C595.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/B/9J/0GUDN5LK9J4YMVRS2WYR4P.uasset'
+[2024.12.03-12.51.39:440][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/7R/P14JB00ZMCR84FKZ8TXZ1D
+[2024.12.03-12.51.39:440][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/P14JB00ZMCR84FKZ8TXZ1DC12BF0C14B333A7381DEC2AF3AF155DA.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/7R/P14JB00ZMCR84FKZ8TXZ1D.uasset'
+[2024.12.03-12.51.39:444][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/8/XY/YNHDUJGSAE3PADI6UGZKPK
+[2024.12.03-12.51.39:444][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/YNHDUJGSAE3PADI6UGZKPKAF87309641506B4BED04539686F29FDD.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/8/XY/YNHDUJGSAE3PADI6UGZKPK.uasset'
+[2024.12.03-12.51.39:448][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/A/X8/DPITGQ3QX59OLK2VG4R621
+[2024.12.03-12.51.39:448][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/DPITGQ3QX59OLK2VG4R621CE522D324A93DE8BB48F21BB4BC4A2F1.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/A/X8/DPITGQ3QX59OLK2VG4R621.uasset'
+[2024.12.03-12.51.39:452][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/C/8M/21437POJ7G4O50RFCPZ4VU
+[2024.12.03-12.51.39:452][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/21437POJ7G4O50RFCPZ4VUB6FF5FC9438F996B07A67F942ED751E5.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/C/8M/21437POJ7G4O50RFCPZ4VU.uasset'
+[2024.12.03-12.51.39:455][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/1/XS/XV7F5UJJGMF8D4HCN47TSY
+[2024.12.03-12.51.39:455][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/XV7F5UJJGMF8D4HCN47TSY776C2950417F74FB6531628050A5D92A.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/1/XS/XV7F5UJJGMF8D4HCN47TSY.uasset'
+[2024.12.03-12.51.39:458][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/NM/NS7JCDJD7NLYAX8UP7EBPZ
+[2024.12.03-12.51.39:458][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/NS7JCDJD7NLYAX8UP7EBPZ3B3348724003075CFF1F7FA5D27F7C21.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/NM/NS7JCDJD7NLYAX8UP7EBPZ.uasset'
+[2024.12.03-12.51.39:462][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/E/AE/K7QFSW3QYZ9IQ6ULQTS3QK
+[2024.12.03-12.51.39:462][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/K7QFSW3QYZ9IQ6ULQTS3QKCAAE5ABF4EEF9B70960E98929A31C4A8.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/E/AE/K7QFSW3QYZ9IQ6ULQTS3QK.uasset'
+[2024.12.03-12.51.39:466][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/E/WB/5KPOBP0UOMP3GDNKW0V79A
+[2024.12.03-12.51.39:466][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/5KPOBP0UOMP3GDNKW0V79AF1B9F3514F9333DA68957AB34A83E153.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/E/WB/5KPOBP0UOMP3GDNKW0V79A.uasset'
+[2024.12.03-12.51.39:470][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/8/FC/ZUJ0FCTWJHA35XJEOJR2O4
+[2024.12.03-12.51.39:470][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/ZUJ0FCTWJHA35XJEOJR2O495303B8342B18E07563193ACD2EE752A.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/8/FC/ZUJ0FCTWJHA35XJEOJR2O4.uasset'
+[2024.12.03-12.51.39:473][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/1/61/5XMHDLE5LNL74RN2IVD209
+[2024.12.03-12.51.39:473][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/5XMHDLE5LNL74RN2IVD2093D5AAD3642CF2291A4D966A7F1B22FD1.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/1/61/5XMHDLE5LNL74RN2IVD209.uasset'
+[2024.12.03-12.51.39:476][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/C/VT/P475QFOYNPO8E6I1UITFWZ
+[2024.12.03-12.51.39:476][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/P475QFOYNPO8E6I1UITFWZ5100986241A572CB3D18D7A490C063F1.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/C/VT/P475QFOYNPO8E6I1UITFWZ.uasset'
+[2024.12.03-12.51.39:481][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/3/OC/1GX4NU7YSATH2RK816KECV
+[2024.12.03-12.51.39:481][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/1GX4NU7YSATH2RK816KECV89F1B6114056BDFBC84F12A0E38210AC.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/3/OC/1GX4NU7YSATH2RK816KECV.uasset'
+[2024.12.03-12.51.39:484][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/IA/1NYWZUZO2Z8STO44T6HIUU
+[2024.12.03-12.51.39:484][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/1NYWZUZO2Z8STO44T6HIUU40917E1B4BE7AAB77C1D66A752872163.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/IA/1NYWZUZO2Z8STO44T6HIUU.uasset'
+[2024.12.03-12.51.39:487][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/0/UL/6IUGX0SEQ4VA4AF22RUY2G
+[2024.12.03-12.51.39:488][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/6IUGX0SEQ4VA4AF22RUY2G8CBE46CD487D263BB745FD81758E1857.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/0/UL/6IUGX0SEQ4VA4AF22RUY2G.uasset'
+[2024.12.03-12.51.39:490][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/CC/BTKQXA504OROHJIQY36BRF
+[2024.12.03-12.51.39:490][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/BTKQXA504OROHJIQY36BRF5EA4E4294F13F8A46092B2B76B756BF8.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/CC/BTKQXA504OROHJIQY36BRF.uasset'
+[2024.12.03-12.51.39:495][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/8/ZZ/MVV27N9WGS5A7TPP3NH0AA
+[2024.12.03-12.51.39:495][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/MVV27N9WGS5A7TPP3NH0AA00BEBD3440C782B7BBB706AEA5E72353.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/8/ZZ/MVV27N9WGS5A7TPP3NH0AA.uasset'
+[2024.12.03-12.51.39:499][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/9/06/7LARXWNMMB3RMFEP3ZJ4YS
+[2024.12.03-12.51.39:499][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/7LARXWNMMB3RMFEP3ZJ4YS2842BCC14D61B0E52183289DA0A0D561.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/9/06/7LARXWNMMB3RMFEP3ZJ4YS.uasset'
+[2024.12.03-12.51.39:504][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/C/T6/27V9SQPKDS9SCY02PZ8UM6
+[2024.12.03-12.51.39:504][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/27V9SQPKDS9SCY02PZ8UM68C6507A74C5F096E8CB0BCB51A04BCC7.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/C/T6/27V9SQPKDS9SCY02PZ8UM6.uasset'
+[2024.12.03-12.51.39:507][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/RS/JFTJKPJ5UE2F3A13P1DPHY
+[2024.12.03-12.51.39:507][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/JFTJKPJ5UE2F3A13P1DPHYB27D29DD45A1D2C7A19CCB86C9F830EA.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/RS/JFTJKPJ5UE2F3A13P1DPHY.uasset'
+[2024.12.03-12.51.39:510][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/NS/B6M0Y8I9CW9H0LB9AKWQ17
+[2024.12.03-12.51.39:510][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/B6M0Y8I9CW9H0LB9AKWQ175338C4E64B0A07060558728104979282.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/NS/B6M0Y8I9CW9H0LB9AKWQ17.uasset'
+[2024.12.03-12.51.39:514][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/N3/UMDKJQAAKMN4UC4KBIUC11
+[2024.12.03-12.51.39:514][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/UMDKJQAAKMN4UC4KBIUC11EB6D609A4950A63E5F73D9A665753186.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/N3/UMDKJQAAKMN4UC4KBIUC11.uasset'
+[2024.12.03-12.51.39:517][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/9S/PF19N8IDS38E6AM71M8IG2
+[2024.12.03-12.51.39:517][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/PF19N8IDS38E6AM71M8IG2D47DDD48415B68FB2F793CA60EEB4BA2.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/9S/PF19N8IDS38E6AM71M8IG2.uasset'
+[2024.12.03-12.51.39:521][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/5/B1/62CNAD6ORKVZO8M3PLDEGX
+[2024.12.03-12.51.39:521][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/62CNAD6ORKVZO8M3PLDEGXE266AEDD477E49D53D1783A109E1559B.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/5/B1/62CNAD6ORKVZO8M3PLDEGX.uasset'
+[2024.12.03-12.51.39:524][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/CV/8X34PNUMWQDYBP3BRTDBEN
+[2024.12.03-12.51.39:524][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/8X34PNUMWQDYBP3BRTDBEN1040BF6545AC09187F845681A8D632A6.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/CV/8X34PNUMWQDYBP3BRTDBEN.uasset'
+[2024.12.03-12.51.39:528][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/6/UX/8KGF7NEPBJTPYWANQRBN4H
+[2024.12.03-12.51.39:528][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/8KGF7NEPBJTPYWANQRBN4H57CE4EAB4E189BC476C0AEAA2E5F0F64.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/6/UX/8KGF7NEPBJTPYWANQRBN4H.uasset'
+[2024.12.03-12.51.39:532][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/4/RJ/9PJIFULJRY6IEYZ02TAU99
+[2024.12.03-12.51.39:532][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/9PJIFULJRY6IEYZ02TAU99B514A4A3423B6F256D877AAA5B9303AA.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/4/RJ/9PJIFULJRY6IEYZ02TAU99.uasset'
+[2024.12.03-12.51.39:536][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/A1/FN263ZHOYJT0XGSHW9FSOP
+[2024.12.03-12.51.39:536][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/FN263ZHOYJT0XGSHW9FSOP04C9D40D4B7D99C9C4B2D4AC03B474D7.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/A1/FN263ZHOYJT0XGSHW9FSOP.uasset'
+[2024.12.03-12.51.39:540][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/4M/DYOI9TFDT4TFQLI2OSLGNN
+[2024.12.03-12.51.39:540][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/DYOI9TFDT4TFQLI2OSLGNN9F6F471B4553A397C9A1D180EB0D825E.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/4M/DYOI9TFDT4TFQLI2OSLGNN.uasset'
+[2024.12.03-12.51.39:544][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/3/ZD/B2CA04QHSWASBH6M6QHMVS
+[2024.12.03-12.51.39:544][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/B2CA04QHSWASBH6M6QHMVS69A27AF4478D82F9112B7298FDF4A79F.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/3/ZD/B2CA04QHSWASBH6M6QHMVS.uasset'
+[2024.12.03-12.51.39:548][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/LagoHylia/D/MI/V96DLIQXXNKNMH3BGVWO4U
+[2024.12.03-12.51.39:548][398]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/V96DLIQXXNKNMH3BGVWO4UFCDD331846D908A9A68B90AE9B521EAD.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/__ExternalActors__/Maps/LagoHylia/D/MI/V96DLIQXXNKNMH3BGVWO4U.uasset'
+[2024.12.03-12.51.45:096][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.72 sec (total: 14.4 sec)
+[2024.12.03-12.51.45:131][398]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B313502_1360825094
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1412065860
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1444602861
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1538422863
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1564197864
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1583028865
+[2024.12.03-12.51.45:131][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1604719866
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1635489867
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_1693927868
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3B3502_2145228869
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1103077046
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1135576047
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1200448048
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1209671049
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464079050
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464083051
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464084052
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464086053
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464087054
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464087055
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464088056
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464090057
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464092058
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464093059
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464095060
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464097061
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1464098062
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798906063
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798909064
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798910065
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798912066
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798913067
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798915068
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798916069
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798917070
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798919071
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798920072
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798921073
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798922074
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798923075
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798925076
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798926077
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798928078
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798929079
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798930080
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798930081
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798932082
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798933083
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798934084
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798935085
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798936086
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798937087
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798938088
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1798939089
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919666090
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919669091
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919670092
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919672093
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919673094
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919674095
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919676096
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_1919677097
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_2078946098
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_2078948099
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3C3502_2078949100
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1172288277
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1190367278
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1209711279
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1216587280
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1249207281
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.StaticMeshActor_UAID_D493900F152B3D3502_1281085282
+[2024.12.03-12.51.45:132][398]LogContentValidation: Display: Validating /Script/Niagara.NiagaraActor /Game/Maps/LagoHylia.LagoHylia:PersistentLevel.NiagaraActor_UAID_D493900F152B3D3502_1418846283
+[2024.12.03-12.51.45:147][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.03-12.53.06:757][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-12.53.06:841][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.12.03-12.53.06:855][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.12.03-12.53.06:865][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.12.03-12.53.06:876][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 14.5 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: ================================================
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Total job queries 240, among them cache hits 111 (46.25%)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 77 distinct outputs (61.60%)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: RAM used: 2,94 MiB of 819,20 MiB budget. Usage: 0.36%
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Shaders Compiled: 89
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Average time worker was idle: 448.64 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.78 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.58 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 0.84 s, max 1.63
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Shader code size: average 37,308 KiB, min 1,187 KiB, max 63,152 KiB
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.77 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Average processing rate: 3.74 jobs/sec
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Total thread time: 39,346 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Total thread preprocess time: 4,179 s
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Percentage time preprocessing: 10.62%
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.61 sec, max 0.66 sec, min 0.56 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.61 sec, max 0.81 sec, min 0.40 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    4 times, average 0.60 sec, max 0.68 sec, min 0.55 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.59 sec, max 0.65 sec, min 0.53 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.58 sec, max 0.65 sec, min 0.51 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                               FNiagaraShader - 17.89% of total time (compiled   21 times, average 0.34 sec, max 0.75 sec, min 0.09 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.96% of total time (compiled    9 times, average 0.61 sec, max 0.81 sec, min 0.40 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.50% of total time (compiled    9 times, average 0.55 sec, max 0.72 sec, min 0.34 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.30% of total time (compiled    9 times, average 0.54 sec, max 0.72 sec, min 0.35 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.43% of total time (compiled    9 times, average 0.28 sec, max 0.38 sec, min 0.16 sec)
+[2024.12.03-12.53.51:233][ 16]LogShaderCompilers: Display: ================================================
+[2024.12.03-12.53.51:275][ 16]LogNiagara: Compiling System NiagaraSystem /Game/Materias/luciernagas.luciernagas took 1.161358 sec (time since issued), 1.803795 sec (combined shader worker time).
+[2024.12.03-12.53.51:433][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-12.53.51:522][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materias/luciernagas" FILE="../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/Materias/luciernagas.uasset" SILENT=true
+[2024.12.03-12.53.51:570][ 16]LogSavePackage: Moving output files for package: /Game/Materias/luciernagas
+[2024.12.03-12.53.51:570][ 16]LogSavePackage: Moving '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Saved/luciernagas2C58C8FE464F0531A90D3BA110A9ED46.tmp' to '../../../../../../Users/Abraham/Documents/Grafica-AV-ZOOT/Content/Materias/luciernagas.uasset'
+[2024.12.03-12.53.52:186][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 752 ms (total: 15.3 sec)
+[2024.12.03-12.53.52:322][ 16]AssetCheck: New page: Asset Save: luciernagas
+[2024.12.03-12.53.52:323][ 16]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/Materias/luciernagas.luciernagas
+[2024.12.03-12.53.54:853][125]LogViewport: Scene viewport resized to 381x502, mode Windowed.
+[2024.12.03-12.53.54:986][126]LogViewport: Scene viewport resized to 376x464, mode Windowed.
+[2024.12.03-12.54.39:626][684]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.39:644][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.54.39:669][684]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.39:669][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.54.39:729][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.12.03-12.54.42:312][823]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.42:312][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.54.47:660][909]LogSlate: Window 'Message' being destroyed
+[2024.12.03-12.54.47:666][909]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Modeloos/Material.Material
+(Selecting 'No' will cause all changes to be lost!)
+[2024.12.03-12.54.48:413][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.03-12.54.48:632][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.03-12.54.48:688][909]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.48:688][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.54.52:502][  1]LogSlate: Window 'Message' being destroyed
+[2024.12.03-12.54.52:507][  1]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materias/rock.rock
+(Selecting 'No' will cause all changes to be lost!)
+[2024.12.03-12.54.52:625][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.03-12.54.52:837][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.03-12.54.52:914][  1]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.52:914][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.54.55:083][110]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.54.55:083][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.55.00:261][255]LogSlate: Window 'Message' being destroyed
+[2024.12.03-12.55.00:267][255]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materias/Grrass.Grrass
+(Selecting 'No' will cause all changes to be lost!)
+[2024.12.03-12.55.00:502][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.03-12.55.00:734][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.03-12.55.00:783][255]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.03-12.55.00:783][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.03-12.55.06:058][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-12.55.06:164][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.03-12.55.06:188][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.03-12.55.06:202][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.12.03-12.55.06:233][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 15.5 sec)
+[2024.12.03-12.56.50:271][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.03-12.56.50:359][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.03-12.56.50:372][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.03-12.56.50:385][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.03-12.56.50:397][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 15.6 sec)
+[2024.12.03-12.56.52:078][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.12.03-12.56.56:499][516]LogSlate: Window 'Save Content' being destroyed
